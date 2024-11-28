@@ -147,15 +147,15 @@ body{
     align-items: center;
     gap: 1.5rem;
 }
-/* .about-img img{
+ .about-img img{
     padding-bottom: 20%;
     max-width: 530px;
     height: auto;
     width: 98%;
     border-radius: 100%;
-    /* border: 5px solid #0091ce; */
+    border: 5px solid #0091ce; 
    
-} */
+} 
 
 
 /* .about-img {
@@ -170,14 +170,14 @@ body{
     align-items: center;
 } */
 
-.about-img img {
+/* .about-img img {
     width: 90%; 
     height: 90%;
     border-radius: 100%;  
-/*     object-fit: cover;  */
+    object-fit: cover;  
     border: 5px solid #0091ce; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  */
-}
+} */
 .about-text h2{
     font-size: 60px;
 }
