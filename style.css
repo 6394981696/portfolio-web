@@ -152,8 +152,8 @@ body{
     max-width: 530px;
     height: auto;
     width: 98%;
-    border-radius: 100%;
-    border: 5px solid #0091ce; 
+    border-radius: 150%;
+/*     border: 5px solid #0091ce;  */
    
 } 
 
